@@ -1,0 +1,18 @@
+ID,QUESTION,NUMERICAL ANSWER
+12476874168,"The 4-point DFTs of two sequences 𝑥[𝑛] and 𝑦[𝑛] are 𝑋[𝑘] = [1,−𝑗, 1,𝑗] and 𝑌[𝑘] = [1, 3𝑗, 1,−3𝑗], respectively. Assuming 𝑧[𝑛] represents the 4-point circular convolution of 𝑥[𝑛] and 𝑦[𝑛], the value of 𝑧[0] is __________ (rounded off to nearest integer).",2
+12476874198,"Find the odd one out in the set: {19, 37, 21, 17, 23, 29, 31, 11}",21
+12476874221,The ionic strength of a solution containing 0.01M of CaCl2 and 0.001M of Na2SO4 is ________ M (rounded off to 3 decimal places).,0.033
+12476874256,"A user starts browsing a webpage hosted at a remote server. 
+The browser opens a single TCP connection to fetch the entire webpage from the server. 
+The webpage consists of a top-level index page with multiple embedded image objects. 
+Assume that all caches (e.g., DNS cache, browser cache) are all initially empty. 
+The following packets leave the user’s computer in some order. 
+(i) HTTP GET request for the index page 
+(ii) DNS request to resolve the web server’s name to its IP address 
+(iii) HTTP GET request for an image object 
+(iv) TCP SYN to open a connection to the web server 
+Which one of the following is the CORRECT chronological order (earliest in time to latest) of the packets leaving the computer ? 
+(1) (iv), (ii), (iii), (i) 
+(2) (ii), (iv), (iii), (i) 
+(3) (ii), (iv), (i), (iii) 
+(4) (iv), (ii), (i), (iii)",3
